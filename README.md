@@ -47,7 +47,7 @@ The result is a fully reproducible Jupyter Notebook that handles 1 million rows 
 
 ## 📂 Dataset Information
 
-- **Source**: [Kaggle - Global Earthquake History: 1M+ Since 1900]([https://www.kaggle.com/datasets/usgs/earthquake-database](https://www.kaggle.com/datasets/darkmatternet/global-earthquake-history-1m-since-1900))
+- **Source**: [Kaggle - Global Earthquake History: 1M+ Since 1900]([https://www.kaggle.com/datasets/usgs/earthquake-database](https://www.kaggle.com/datasets/darkmatternet/global-earthquake-history-1m-since-1900)
 - **Time Span**: 1900 to present (~2026)
 - **Records**: ~864,000 events (after cleaning).
 - **Attributes**: Includes `time`, `latitude`, `longitude`, `depth`, `mag`, `place`, `type`, and more.
