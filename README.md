@@ -48,12 +48,13 @@ The result is a fully reproducible Jupyter Notebook that handles 1 million rows 
 ## 📂 Dataset Information
 
 - **Source**: [Kaggle - Global Earthquake History: 1M+ Since 1900]([https://www.kaggle.com/datasets/usgs/earthquake-database](https://www.kaggle.com/datasets/darkmatternet/global-earthquake-history-1m-since-1900)
-- **Untill 25-06-2025 10:00 PM INT**
+- **Untill 25-06-2025 10:00 PM IST**
 - **Time Span**: 1900 to present (~2026)
 - **Records**: ~864,000 events (after cleaning).
 - **Attributes**: Includes `time`, `latitude`, `longitude`, `depth`, `mag`, `place`, `type`, and more.
-
 ---
+-- For `Data` which is used in this and `Jupyter Notebook` is uploaded in this Google Drive : https://drive.google.com/drive/folders/1kJecvSi0KISQ5PGwkB4XOIzLYdvERQqt?usp=sharing 
+
 
 ## 🔄 The Analytical Workflow
 
