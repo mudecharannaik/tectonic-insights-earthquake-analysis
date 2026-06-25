@@ -1,6 +1,6 @@
 # 🌍 Tectonic Insights: A Complete Data Analytics Lifecycle on Global Earthquakes
 
-### *A comprehensive end-to-end data analytics project covering Data Quality, Visualization, Storytelling, and Workflow Optimization using 1M+ global earthquake records.*
+### *A comprehensive end-to-end data analytics project covering Data Quality, Visualization, and Storytellingn using 1M+ global earthquake records.*
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green)
