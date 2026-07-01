@@ -86,12 +86,6 @@ The project is structured into 5 phases, mapping directly to the notebook sectio
    - Built a mock-up executive dashboard using `plotly.subplots`.
 ---
 
-## 🚀 How to Run This Project
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/mudecharannaik/tectonic-insights-earthquake-analysis.git
-   cd tectonic-insights-earthquake-analysis
 
 # 📈 Key Insights & Takeaways
 - Magnitude matters: Large earthquakes (M>8.0) are statistically rare but physically critical. They were preserved in the dataset.
